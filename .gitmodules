@@ -7,3 +7,6 @@
 [submodule "HW3"]
 	path = HW3
 	url = https://github.com/calvincodes/Artificial-Neural-Network.git
+[submodule "HW4"]
+	path = HW4
+	url = https://github.com/calvincodes/Bayes-Classifier.git
