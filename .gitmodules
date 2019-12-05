@@ -4,3 +4,6 @@
 [submodule "HW2"]
 	path = HW2
 	url = https://github.com/calvincodes/ID3-Decision-Tree-Learner.git
+[submodule "HW3"]
+	path = HW3
+	url = https://github.com/calvincodes/Artificial-Neural-Network.git
